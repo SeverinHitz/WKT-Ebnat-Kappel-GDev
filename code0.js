@@ -156,6 +156,34 @@ gdjs.OverworldCode.GDMoorfl_95228cheObjects1= [];
 gdjs.OverworldCode.GDMoorfl_95228cheObjects2= [];
 gdjs.OverworldCode.GDMoorfl_95228cheObjects3= [];
 gdjs.OverworldCode.GDMoorfl_95228cheObjects4= [];
+gdjs.OverworldCode.GDBaum_9595ahornObjects1= [];
+gdjs.OverworldCode.GDBaum_9595ahornObjects2= [];
+gdjs.OverworldCode.GDBaum_9595ahornObjects3= [];
+gdjs.OverworldCode.GDBaum_9595ahornObjects4= [];
+gdjs.OverworldCode.GDBaum_9595BucheObjects1= [];
+gdjs.OverworldCode.GDBaum_9595BucheObjects2= [];
+gdjs.OverworldCode.GDBaum_9595BucheObjects3= [];
+gdjs.OverworldCode.GDBaum_9595BucheObjects4= [];
+gdjs.OverworldCode.GDBaum_9595fichteObjects1= [];
+gdjs.OverworldCode.GDBaum_9595fichteObjects2= [];
+gdjs.OverworldCode.GDBaum_9595fichteObjects3= [];
+gdjs.OverworldCode.GDBaum_9595fichteObjects4= [];
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1= [];
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects2= [];
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects3= [];
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects4= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects2= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects3= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects4= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects2= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects3= [];
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects4= [];
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1= [];
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects2= [];
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects3= [];
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects4= [];
 gdjs.OverworldCode.GDTransitionObjects1= [];
 gdjs.OverworldCode.GDTransitionObjects2= [];
 gdjs.OverworldCode.GDTransitionObjects3= [];
@@ -172,7 +200,7 @@ gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDWildrose_95959595Overworl
 gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDriesenb_959595228renklau_95959595OverworldObjects1Objects = Hashtable.newFrom({"riesenbärenklau_Overworld": gdjs.OverworldCode.GDriesenb_95228renklau_9595OverworldObjects1});
 gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDWildrose_95959595OverworldObjects1Objects = Hashtable.newFrom({"Wildrose_Overworld": gdjs.OverworldCode.GDWildrose_9595OverworldObjects1});
 gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDBerufkraut_95959595OverworldObjects1Objects = Hashtable.newFrom({"Berufkraut_Overworld": gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1});
-gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDTree1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDBush1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDTree2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDGoldrute_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTilemap_95959595GroundObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWater_95959595TilemapObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSignObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWildrose_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSommerflieder_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDStaudenknoeterich_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDriesenb_959595228renklau_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBerufkraut_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBahnhofObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSchule_95959595GillObjects1ObjectsGDgdjs_9546OverworldCode_9546GDKircheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDVilla_95959595SteinenObjects1ObjectsGDgdjs_9546OverworldCode_9546GDMoorfl_959595228cheObjects1Objects = Hashtable.newFrom({"Tree1": gdjs.OverworldCode.GDTree1Objects1, "Bush1": gdjs.OverworldCode.GDBush1Objects1, "Tree2": gdjs.OverworldCode.GDTree2Objects1, "House1": gdjs.OverworldCode.GDHouse1Objects1, "House2": gdjs.OverworldCode.GDHouse2Objects1, "Goldrute_Overworld": gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1, "Tilemap_Ground": gdjs.OverworldCode.GDTilemap_9595GroundObjects1, "Water_Tilemap": gdjs.OverworldCode.GDWater_9595TilemapObjects1, "Sign": gdjs.OverworldCode.GDSignObjects1, "Wildrose_Overworld": gdjs.OverworldCode.GDWildrose_9595OverworldObjects1, "Sommerflieder_Overworld": gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1, "Staudenknoeterich_Overworld": gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1, "riesenbärenklau_Overworld": gdjs.OverworldCode.GDriesenb_95228renklau_9595OverworldObjects1, "Berufkraut_Overworld": gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1, "Bahnhof": gdjs.OverworldCode.GDBahnhofObjects1, "Schule_Gill": gdjs.OverworldCode.GDSchule_9595GillObjects1, "Kirche": gdjs.OverworldCode.GDKircheObjects1, "Villa_Steinen": gdjs.OverworldCode.GDVilla_9595SteinenObjects1, "Moorfläche": gdjs.OverworldCode.GDMoorfl_95228cheObjects1});
+gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDTree1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDBush1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDTree2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDGoldrute_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTilemap_95959595GroundObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWater_95959595TilemapObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSignObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWildrose_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSommerflieder_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDStaudenknoeterich_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDriesenb_959595228renklau_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBerufkraut_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBahnhofObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSchule_95959595GillObjects1ObjectsGDgdjs_9546OverworldCode_9546GDKircheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDVilla_95959595SteinenObjects1ObjectsGDgdjs_9546OverworldCode_9546GDMoorfl_959595228cheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595ahornObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595BucheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595fichteObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595l_959595228rcheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTier_95959595GelbbauchunkeObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTier_95959595Auerhuhn_95959595fObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTier_95959595Auerhuhn_95959595mObjects1Objects = Hashtable.newFrom({"Tree1": gdjs.OverworldCode.GDTree1Objects1, "Bush1": gdjs.OverworldCode.GDBush1Objects1, "Tree2": gdjs.OverworldCode.GDTree2Objects1, "House1": gdjs.OverworldCode.GDHouse1Objects1, "House2": gdjs.OverworldCode.GDHouse2Objects1, "Goldrute_Overworld": gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1, "Tilemap_Ground": gdjs.OverworldCode.GDTilemap_9595GroundObjects1, "Water_Tilemap": gdjs.OverworldCode.GDWater_9595TilemapObjects1, "Sign": gdjs.OverworldCode.GDSignObjects1, "Wildrose_Overworld": gdjs.OverworldCode.GDWildrose_9595OverworldObjects1, "Sommerflieder_Overworld": gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1, "Staudenknoeterich_Overworld": gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1, "riesenbärenklau_Overworld": gdjs.OverworldCode.GDriesenb_95228renklau_9595OverworldObjects1, "Berufkraut_Overworld": gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1, "Bahnhof": gdjs.OverworldCode.GDBahnhofObjects1, "Schule_Gill": gdjs.OverworldCode.GDSchule_9595GillObjects1, "Kirche": gdjs.OverworldCode.GDKircheObjects1, "Villa_Steinen": gdjs.OverworldCode.GDVilla_9595SteinenObjects1, "Moorfläche": gdjs.OverworldCode.GDMoorfl_95228cheObjects1, "Baum_ahorn": gdjs.OverworldCode.GDBaum_9595ahornObjects1, "Baum_Buche": gdjs.OverworldCode.GDBaum_9595BucheObjects1, "Baum_fichte": gdjs.OverworldCode.GDBaum_9595fichteObjects1, "Baum_lärche": gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1, "Tier_Gelbbauchunke": gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1, "Tier_Auerhuhn_f": gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1, "Tier_Auerhuhn_m": gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1});
 gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.OverworldCode.GDPlayerObjects2});
 gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDGoldrute_95959595OverworldObjects2Objects = Hashtable.newFrom({"Goldrute_Overworld": gdjs.OverworldCode.GDGoldrute_9595OverworldObjects2});
 gdjs.OverworldCode.asyncCallback29706116 = function (runtimeScene, asyncObjectsList) {
@@ -1486,6 +1514,10 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("DialogBox"), gdjs.OverworldCode.GDDialogBoxObjects1);
@@ -1502,6 +1534,9 @@ gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects
 gdjs.copyArray(runtimeScene.getObjects("SignBox"), gdjs.OverworldCode.GDSignBoxObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -1566,6 +1601,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 }
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
 }
 }{for(var i = 0, len = gdjs.OverworldCode.GDPlayerObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDPlayerObjects1[i].setZOrder((gdjs.OverworldCode.GDPlayerObjects1[i].getPointY("")));
@@ -1634,6 +1690,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -1646,6 +1706,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -1715,6 +1778,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -1734,6 +1818,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("House1"), gdjs.OverworldCode.GDHouse1Objects1);
@@ -1745,6 +1833,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -1815,6 +1906,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -1867,6 +1979,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -1879,6 +1995,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -1948,6 +2067,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -1967,6 +2107,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -1978,6 +2122,9 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.OverworldCode.GDPlayerObj
 gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchule_9595GillObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2048,6 +2195,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -2100,6 +2268,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -2112,6 +2284,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2181,6 +2356,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -2200,6 +2396,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -2211,6 +2411,9 @@ gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.OverworldCode.GDPlayerObj
 gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchule_9595GillObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2281,6 +2484,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -2333,6 +2557,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -2345,6 +2573,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2414,6 +2645,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -2433,6 +2685,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -2445,6 +2701,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2514,6 +2773,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -2566,6 +2846,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -2578,6 +2862,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2647,6 +2934,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -2666,6 +2974,10 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("House1"), gdjs.OverworldCode.GDHouse1Objects1);
@@ -2677,6 +2989,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2747,6 +3062,27 @@ for(var i = 0, len = gdjs.OverworldCode.GDVilla_9595SteinenObjects1.length ;i < 
 for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < len;++i) {
     gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].setZOrder((gdjs.OverworldCode.GDMoorfl_95228cheObjects1[i].getY()));
 }
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595ahornObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595ahornObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595BucheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595BucheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595fichteObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595fichteObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].setZOrder((gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1[i].getY()));
+}
+for(var i = 0, len = gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length ;i < len;++i) {
+    gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].setZOrder((gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1[i].getY()));
+}
 }}
 
 }
@@ -2758,6 +3094,10 @@ for(var i = 0, len = gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length ;i < le
 let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("Bahnhof"), gdjs.OverworldCode.GDBahnhofObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_Buche"), gdjs.OverworldCode.GDBaum_9595BucheObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_ahorn"), gdjs.OverworldCode.GDBaum_9595ahornObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_fichte"), gdjs.OverworldCode.GDBaum_9595fichteObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Baum_lärche"), gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Berufkraut_Overworld"), gdjs.OverworldCode.GDBerufkraut_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Bush1"), gdjs.OverworldCode.GDBush1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Goldrute_Overworld"), gdjs.OverworldCode.GDGoldrute_9595OverworldObjects1);
@@ -2770,6 +3110,9 @@ gdjs.copyArray(runtimeScene.getObjects("Schule_Gill"), gdjs.OverworldCode.GDSchu
 gdjs.copyArray(runtimeScene.getObjects("Sign"), gdjs.OverworldCode.GDSignObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Sommerflieder_Overworld"), gdjs.OverworldCode.GDSommerflieder_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Staudenknoeterich_Overworld"), gdjs.OverworldCode.GDStaudenknoeterich_9595OverworldObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_f"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Auerhuhn_m"), gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Tier_Gelbbauchunke"), gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tilemap_Ground"), gdjs.OverworldCode.GDTilemap_9595GroundObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree1"), gdjs.OverworldCode.GDTree1Objects1);
 gdjs.copyArray(runtimeScene.getObjects("Tree2"), gdjs.OverworldCode.GDTree2Objects1);
@@ -2778,7 +3121,7 @@ gdjs.copyArray(runtimeScene.getObjects("Water_Tilemap"), gdjs.OverworldCode.GDWa
 gdjs.copyArray(runtimeScene.getObjects("Wildrose_Overworld"), gdjs.OverworldCode.GDWildrose_9595OverworldObjects1);
 gdjs.copyArray(runtimeScene.getObjects("riesenbärenklau_Overworld"), gdjs.OverworldCode.GDriesenb_95228renklau_9595OverworldObjects1);
 {for(var i = 0, len = gdjs.OverworldCode.GDPlayerObjects1.length ;i < len;++i) {
-    gdjs.OverworldCode.GDPlayerObjects1[i].separateFromObjectsList(gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDTree1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDBush1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDTree2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDGoldrute_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTilemap_95959595GroundObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWater_95959595TilemapObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSignObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWildrose_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSommerflieder_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDStaudenknoeterich_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDriesenb_959595228renklau_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBerufkraut_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBahnhofObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSchule_95959595GillObjects1ObjectsGDgdjs_9546OverworldCode_9546GDKircheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDVilla_95959595SteinenObjects1ObjectsGDgdjs_9546OverworldCode_9546GDMoorfl_959595228cheObjects1Objects, false);
+    gdjs.OverworldCode.GDPlayerObjects1[i].separateFromObjectsList(gdjs.OverworldCode.mapOfGDgdjs_9546OverworldCode_9546GDTree1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDBush1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDTree2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse1Objects1ObjectsGDgdjs_9546OverworldCode_9546GDHouse2Objects1ObjectsGDgdjs_9546OverworldCode_9546GDGoldrute_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTilemap_95959595GroundObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWater_95959595TilemapObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSignObjects1ObjectsGDgdjs_9546OverworldCode_9546GDWildrose_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSommerflieder_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDStaudenknoeterich_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDriesenb_959595228renklau_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBerufkraut_95959595OverworldObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBahnhofObjects1ObjectsGDgdjs_9546OverworldCode_9546GDSchule_95959595GillObjects1ObjectsGDgdjs_9546OverworldCode_9546GDKircheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDVilla_95959595SteinenObjects1ObjectsGDgdjs_9546OverworldCode_9546GDMoorfl_959595228cheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595ahornObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595BucheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595fichteObjects1ObjectsGDgdjs_9546OverworldCode_9546GDBaum_95959595l_959595228rcheObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTier_95959595GelbbauchunkeObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTier_95959595Auerhuhn_95959595fObjects1ObjectsGDgdjs_9546OverworldCode_9546GDTier_95959595Auerhuhn_95959595mObjects1Objects, false);
 }
 }{gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.OverworldCode.GDPlayerObjects1.length !== 0 ? gdjs.OverworldCode.GDPlayerObjects1[0] : null), true, "", 0);
 }}
@@ -3096,6 +3439,34 @@ gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length = 0;
 gdjs.OverworldCode.GDMoorfl_95228cheObjects2.length = 0;
 gdjs.OverworldCode.GDMoorfl_95228cheObjects3.length = 0;
 gdjs.OverworldCode.GDMoorfl_95228cheObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects4.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects2.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects3.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects4.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects2.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects3.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects4.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects2.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects3.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects4.length = 0;
 gdjs.OverworldCode.GDTransitionObjects1.length = 0;
 gdjs.OverworldCode.GDTransitionObjects2.length = 0;
 gdjs.OverworldCode.GDTransitionObjects3.length = 0;
@@ -3258,6 +3629,34 @@ gdjs.OverworldCode.GDMoorfl_95228cheObjects1.length = 0;
 gdjs.OverworldCode.GDMoorfl_95228cheObjects2.length = 0;
 gdjs.OverworldCode.GDMoorfl_95228cheObjects3.length = 0;
 gdjs.OverworldCode.GDMoorfl_95228cheObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595ahornObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595BucheObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595fichteObjects4.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects1.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects2.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects3.length = 0;
+gdjs.OverworldCode.GDBaum_9595l_95228rcheObjects4.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects1.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects2.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects3.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595fObjects4.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects1.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects2.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects3.length = 0;
+gdjs.OverworldCode.GDTier_9595Auerhuhn_9595mObjects4.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects1.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects2.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects3.length = 0;
+gdjs.OverworldCode.GDTier_9595GelbbauchunkeObjects4.length = 0;
 gdjs.OverworldCode.GDTransitionObjects1.length = 0;
 gdjs.OverworldCode.GDTransitionObjects2.length = 0;
 gdjs.OverworldCode.GDTransitionObjects3.length = 0;
